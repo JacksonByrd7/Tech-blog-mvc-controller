@@ -1,0 +1,12 @@
+{
+  "name": "tech-blog-mvc-controller",
+  "version": "1.0.0",
+  "description": "A mockup tech blog built to demonstrate use of mvg-controllers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
